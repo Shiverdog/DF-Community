@@ -7,3 +7,5 @@ Contributers are encouraged to update their own contributions as new updates com
 
 ### Version
 DF-Community is currently in Minecraft version 1.16.5, as that is the version of the DiamondFire server.
+### Wiki
+It is recommended to include how to use your contributions in the respository's Wiki page.
