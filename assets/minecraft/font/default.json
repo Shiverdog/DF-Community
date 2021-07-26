@@ -881,6 +881,69 @@
 			"chars": [
 				"\uEFF4"
 			]
-		}
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/empty.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE100"
+			]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/leather_left.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE101"
+			]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/leather_full.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE102"
+			]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/leather_right.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE103"
+			]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/iron_left.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE104"
+			]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/iron_full.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE105"
+			]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:misc/armorbar/iron_right.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": [
+			"\uE106"
+			]
+        }
     ]
 }
