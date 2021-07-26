@@ -944,6 +944,15 @@
             "chars": [
 			"\uE106"
 			]
-        }
+        },
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/thegs.png",
+			"ascent": 128,
+			"height": 128,
+			"chars": [
+				"\uE200"
+			]
+		}
     ]
 }
