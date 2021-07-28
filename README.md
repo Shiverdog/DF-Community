@@ -10,4 +10,4 @@ Contributers are encouraged to update their own contributions as new updates com
 DF-Community is currently in Minecraft version 1.16.5, as that is the version of the DiamondFire server.
 DF-Community's update version is 7.27.21
 ### Wiki
-It is recommended to include how to use your contributions in the respository's Wiki page [here](https://github.com/Shiverdog/DF-Community/wiki/Font-Characters).
+It is recommended to include how to use your contributions in the respository's Wiki page [here](https://github.com/Shiverdog/DF-Community/wiki/).
