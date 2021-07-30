@@ -7,7 +7,7 @@ Ideally, this will help people download less resource packs for different Diamon
 Contributers are encouraged to update their own contributions as new updates come along.
 
 ### Version
-DF-Community is currently in Minecraft version 1.16.5, as that is the version of the DiamondFire server.
-DF-Community's update version is 7.27.21
+DF-Community is currently in Minecraft version 1.16.2-1.16.5 and 1.17.X, as that is the version of the DiamondFire server.
+DF-Community's update version is 7.30.21
 ### Wiki
 It is recommended to include how to use your contributions in the respository's Wiki page [here](https://github.com/Shiverdog/DF-Community/wiki/).
