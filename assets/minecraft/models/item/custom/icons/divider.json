@@ -1,8 +1,8 @@
 {
 	"credit": "Made by shiverdog using Blockbench",
 	"textures": {
-		"0": "gui/container/generic_54",
-		"particle": "gui/container/generic_54"
+		"0": "gui/container/inventory",
+		"particle": "gui/container/inventory"
 	},
 	"elements": [
 		{
@@ -10,12 +10,12 @@
 			"to": [12.5, 12.5, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [19.75, 12, 16]},
 			"faces": {
-				"north": {"uv": [2, 0.5, 2, 0.5], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
-				"south": {"uv": [2, 0.5, 2, 0.5], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+				"north": {"uv": [5.1875, 2, 5.2875, 2.1], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [5.1875, 2, 5.2875, 2.1], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
 			}
 		}
 	],
