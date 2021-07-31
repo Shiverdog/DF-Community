@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/dried_kelp"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/stone_fish"},
+		{"predicate": {"custom_model_data":2}, "model" : "item/dried_kelp"}
+	]
+}
