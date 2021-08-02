@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/cooked_salmon"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/roasted_jerefin"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/fishing/roasted_jerefin"},
 		{"predicate": {"custom_model_data":2}, "model" : "item/cooked_salmon"}
 	]
 }

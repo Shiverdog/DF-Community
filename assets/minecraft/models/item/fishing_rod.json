@@ -15,28 +15,28 @@
                 "cast": 0,
 				"custom_model_data": 1
             },
-            "model": "item/custom/golden_rod"
+            "model": "item/custom/fishing/golden_rod"
         },
         {
             "predicate": {
                 "cast": 1,
 				"custom_model_data": 1
             },
-            "model": "item/custom/golden_rod_cast"
+            "model": "item/custom/fishing/golden_rod_cast"
         },
         {
             "predicate": {
                 "cast": 0,
 				"custom_model_data": 2
             },
-            "model": "item/custom/obsidian_rod"
+            "model": "item/custom/fishing/obsidian_rod"
         },
         {
             "predicate": {
                 "cast": 1,
 				"custom_model_data": 2
             },
-            "model": "item/custom/obsidian_rod_cast"
+            "model": "item/custom/fishing/obsidian_rod_cast"
         }
     ]
 }

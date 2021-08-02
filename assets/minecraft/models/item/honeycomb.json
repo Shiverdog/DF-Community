@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/honeycomb"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/wrapped_chocolate_jerecoin"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/currency/jerecoin/wrapped_chocolate_jerecoin"},
 		{"predicate": {"custom_model_data":2}, "model" : "item/honeycomb"}
 	]
 }

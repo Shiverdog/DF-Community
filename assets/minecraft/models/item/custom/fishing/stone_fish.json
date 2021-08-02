@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/custom/gold_jerecoin"
+    "layer0": "minecraft:item/custom/fishing/stone_fish"
   }
 }

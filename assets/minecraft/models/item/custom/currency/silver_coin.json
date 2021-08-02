@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/custom/silver_jerecoin_alt"
+    "layer0": "minecraft:item/custom/currency/silver_coin"
   }
 }

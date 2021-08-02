@@ -11,7 +11,7 @@
         }
     },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/silverfish"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/fishing/silverfish"},
 		{"predicate": {"custom_model_data":2}, "model" : "item/cod"}
 	]
 }

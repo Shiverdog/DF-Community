@@ -11,7 +11,7 @@
         }
     },
 		"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/skeleton_fish"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/fishing/skeleton_fish"},
 		{"predicate": {"custom_model_data":2}, "model" : "item/bone"}
 	]
 }

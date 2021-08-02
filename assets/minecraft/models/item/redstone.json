@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/redstone"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/jere_ruby"},
-		{"predicate": {"custom_model_data":2}, "model": "item/custom/jere_ruby_alt"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/currency/ruby_coin"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/currency/jerecoin/jere_ruby"},
 		{"predicate": {"custom_model_data":3}, "model" : "item/redstone"}
 	]
 }

@@ -2,6 +2,6 @@
 	"credit": "Made by shiverdog using Blockbench",
 	"parent": "item/handheld_rod",
 	"textures": {
-		"layer0": "item/custom/golden_rod"
+		"layer0": "item/custom/fishing/golden_rod"
 	}
 }

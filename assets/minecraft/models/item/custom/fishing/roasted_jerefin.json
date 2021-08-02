@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/custom/chocolate_jerecoin"
+    "layer0": "minecraft:item/custom/fishing/roasted_jerefin"
   }
 }

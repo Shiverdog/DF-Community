@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/pufferfish"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/deflated_pufferfish"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/fishing/deflated_pufferfish"},
 		{"predicate": {"custom_model_data":2}, "model" : "item/pufferfish"}
 	]
 }

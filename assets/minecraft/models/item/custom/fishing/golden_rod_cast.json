@@ -1,6 +1,6 @@
 {
     "parent": "item/fishing_rod",
     "textures": {
-        "layer0": "item/custom/golden_rod_cast"
+        "layer0": "item/custom/fishing/golden_rod_cast"
     }
 }
