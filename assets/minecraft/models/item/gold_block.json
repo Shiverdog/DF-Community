@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/3D/gold_coin_stack"},
-		{"predicate": {"custom_model_data":2}, "model" : "item/gold_block"}
+    {"predicate": {"custom_model_data":2}, "model": "item/custom/3D/gold_jerecoin_stack"},
+		{"predicate": {"custom_model_data":3}, "model" : "item/gold_block"}
 	]
 }
