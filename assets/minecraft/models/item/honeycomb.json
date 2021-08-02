@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/currency/jerecoin/wrapped_chocolate_jerecoin"},
-		{"predicate": {"custom_model_data":2}, "model" : "item/honeycomb"}
+    {"predicate": {"custom_model_data":2}, "model": "item/custom/currency/jerecoin/wrapped_chocolate_jerecoin_copper"},
+		{"predicate": {"custom_model_data":3}, "model" : "item/honeycomb"}
 	]
 }
