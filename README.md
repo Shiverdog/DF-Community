@@ -8,6 +8,6 @@ Contributers are encouraged to update their own contributions as new updates com
 
 ### Version
 DF-Community is currently in Minecraft version 1.17, as that is the version of the DiamondFire's node beta. If you are using 1.16, most aspects of the resource pack will work fine.
-DF-Community's update version is 7.31.21
+DF-Community's update version is 8.1.21 (MM/DD/YY)
 ### Wiki
 It is recommended to include how to use your contributions in the respository's Wiki page [here](https://github.com/Shiverdog/DF-Community/wiki/).
