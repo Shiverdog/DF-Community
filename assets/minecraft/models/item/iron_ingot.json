@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/silver_jerecoin"},
-		{"predicate": {"custom_model_data":2}, "model" : "item/iron_ingot"}
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/silver_jerecoin_alt"},
+		{"predicate": {"custom_model_data":3}, "model" : "item/iron_ingot"}
 	]
 }

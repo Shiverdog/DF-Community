@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/counterfeit_silver"},
-		{"predicate": {"custom_model_data":2}, "model" : "item/netherite_ingot"}
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/counterfeit_silver_alt"},
+		{"predicate": {"custom_model_data":3}, "model" : "item/netherite_ingot"}
 	]
 }

@@ -5,6 +5,7 @@
   },
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/copper_jerecoin"},
-		{"predicate": {"custom_model_data":2}, "model" : "item/copper_ingot"}
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/copper_jerecoin_alt"},
+		{"predicate": {"custom_model_data":3}, "model" : "item/copper_ingot"}
 	]
 }
