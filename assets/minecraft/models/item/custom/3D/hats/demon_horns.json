@@ -1,8 +1,8 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "!VanillaAssets:block/red_wool",
-		"particle": "!VanillaAssets:block/red_wool"
+		"0": "block/red_wool",
+		"particle": "block/red_wool"
 	},
 	"elements": [
 		{

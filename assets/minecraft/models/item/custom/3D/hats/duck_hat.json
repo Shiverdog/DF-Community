@@ -1,10 +1,10 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "!VanillaAssets:block/yellow_wool",
-		"1": "!VanillaAssets:block/orange_wool",
-		"2": "!VanillaAssets:block/black_wool",
-		"particle": "!VanillaAssets:block/yellow_wool"
+		"0": "block/yellow_wool",
+		"1": "block/orange_wool",
+		"2": "block/black_wool",
+		"particle": "block/yellow_wool"
 	},
 	"elements": [
 		{
