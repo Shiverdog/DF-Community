@@ -1,0 +1,33 @@
+{
+	"credit": "Made by shiverdog with Blockbench",
+	"textures": {
+		"layer0": "item/dyed/tipped_arrow_head",
+		"layer1": "item/dyed/tipped_arrow_base"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 5, 16],
+			"faces": {
+				"north": {"uv": [5, 5, 6, 6], "texture": "#layer1"},
+				"east": {"uv": [5, 5, 6, 6], "texture": "#layer1"},
+				"south": {"uv": [5, 5, 6, 6], "texture": "#layer1"},
+				"west": {"uv": [5, 5, 6, 6], "texture": "#layer1"},
+				"up": {"uv": [5, 5, 6, 6], "texture": "#layer1"},
+				"down": {"uv": [5, 5, 6, 6], "texture": "#layer1"}
+			}
+		},
+		{
+			"from": [0, 5, 0],
+			"to": [16, 18, 16],
+			"faces": {
+				"north": {"uv": [12, 12, 13, 13], "texture": "#layer0", "tintindex": 0},
+				"east": {"uv": [12, 12, 13, 13], "texture": "#layer0", "tintindex": 0},
+				"south": {"uv": [12, 12, 13, 13], "texture": "#layer0", "tintindex": 0},
+				"west": {"uv": [12, 12, 13, 13], "texture": "#layer0", "tintindex": 0},
+				"up": {"uv": [12, 12, 13, 13], "texture": "#layer0", "tintindex": 0},
+				"down": {"uv": [12, 12, 13, 13], "texture": "#layer0", "tintindex": 0}
+			}
+		}
+	]
+}

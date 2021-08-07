@@ -1,0 +1,75 @@
+{
+	"credit": "Made by shiverdog with Blockbench",
+	"textures": {
+		"0": "entity/villager/profession/farmer",
+		"particle": "entity/villager/profession/farmer"
+	},
+	"elements": [
+		{
+			"name": "cutin",
+			"from": [4, 0, 4],
+			"to": [12, 0, 12],
+			"faces": {
+				"north": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"},
+				"east": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"},
+				"south": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"},
+				"west": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"},
+				"up": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"},
+				"down": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cutin",
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"faces": {
+				"north": {"uv": [10, 2, 12, 3], "texture": "#0"},
+				"east": {"uv": [8, 2, 10, 3], "texture": "#0"},
+				"south": {"uv": [14, 2, 16, 3], "texture": "#0"},
+				"west": {"uv": [12, 2, 14, 3], "texture": "#0"},
+				"up": {"uv": [10, 0, 12, 2], "texture": "#0"},
+				"down": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 4.5],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 4.5],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 9.25, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 9.25, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"ground": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 7.75, 0],
+			"scale": [1.57, 1.57, 1.57]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 30.5, 0],
+			"scale": [2.9, 2.9, 2.9]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -18],
+			"scale": [2.2, 2.2, 2.2]
+		}
+	}
+}
