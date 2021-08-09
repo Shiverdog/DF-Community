@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/dyed/dyed_coin",
+		"layer1": "item/dyed/dyed_coin"
+    }
+}

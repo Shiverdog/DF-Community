@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+  	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/dyed/dyed_coin"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/dyed/dyed_jerecoin"},
+		{"predicate": {"custom_model_data":3}, "model": "item/firework_star"}
+	]
+}
