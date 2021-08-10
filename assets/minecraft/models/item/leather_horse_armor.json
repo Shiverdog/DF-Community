@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "item/custom/3D/hats/headphone"},
+		{"predicate": {"custom_model_data":101}, "model": "item/custom/3D/hats/book_hat"},
+		{"predicate": {"custom_model_data":102}, "model": "item/leather_horse_armor"}
+	]
+
+}

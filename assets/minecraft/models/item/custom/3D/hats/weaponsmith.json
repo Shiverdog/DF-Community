@@ -1,0 +1,80 @@
+{
+	"credit": "Made by shiverdog with Blockbench",
+	"textures": {
+		"0": "entity/villager/profession/weaponsmith",
+		"particle": "entity/villager/profession/weaponsmith"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [6, 6, 10],
+			"faces": {
+				"east": {"uv": [6, 2, 4, 4.5], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10, 0, 6],
+			"to": [10, 6, 10],
+			"faces": {
+				"east": {"uv": [0, 2, 2, 4.5], "texture": "#0"},
+				"west": {"uv": [2, 2, 0, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [10, 6, 6],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4.5], "texture": "#0"},
+				"south": {"uv": [4, 2, 2, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 10],
+			"to": [10, 6, 10],
+			"faces": {
+				"north": {"uv": [8, 2, 6, 4.5], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -6, 0],
+			"translation": [0, 5.5, 0],
+			"scale": [0.91, 0.91, 0.91]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -6, 0],
+			"translation": [0, 5.5, 0],
+			"scale": [0.91, 0.91, 0.91]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 171, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [0.91, 0.91, 0.91]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 171, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [0.91, 0.91, 0.91]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [23, -152, 0],
+			"translation": [0, 9.25, 0],
+			"scale": [1.99, 1.99, 1.99]
+		},
+		"head": {
+			"translation": [0, 17.75, 0],
+			"scale": [3.75, 3.05, 3.75]
+		},
+		"fixed": {
+			"rotation": [-78, 0, 0],
+			"translation": [0, 5.25, -20],
+			"scale": [3.17, 3.17, 3.17]
+		}
+	}
+}
