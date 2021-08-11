@@ -1,6 +1,5 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
-	"parent": "minecraft:item/handheld",
 	"textures": {
 		"0": "item/vanillaReference/iron_axe",
 		"particle": "item/vanillaReference/iron_axe"
