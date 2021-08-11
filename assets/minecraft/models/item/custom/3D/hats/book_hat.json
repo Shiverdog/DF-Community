@@ -1,9 +1,9 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "item/dyed/librarian_dyed",
-		"1": "item/dyed/librarian_normal",
-		"particle": "item/dyed/librarian_dyed"
+		"0": "item/vanillaReference/librarian_dyed",
+		"1": "item/vanillaReference/librarian_normal",
+		"particle": "item/vanillaReference/librarian_dyed"
 	},
 	"elements": [
 		{
