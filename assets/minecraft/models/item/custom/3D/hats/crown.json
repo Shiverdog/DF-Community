@@ -1,21 +1,21 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "block/red_wool",
-		"1": "block/gold_block",
-		"2": "block/black_wool",
-		"particle": "block/red_wool"
+		"0": "item/vanillaReference/white_wool",
+		"1": "item/vanillaReference/gold_block",
+		"2": "item/vanillaReference/black_concrete",
+		"particle": "item/vanillaReference/gold_block"
 	},
 	"elements": [
 		{
 			"from": [4.5, 1, 4.5],
 			"to": [11.5, 7, 11.5],
 			"faces": {
-				"north": {"uv": [0, 0, 7, 6], "texture": "#0"},
-				"east": {"uv": [0, 0, 7, 6], "texture": "#0"},
-				"south": {"uv": [0, 0, 7, 6], "texture": "#0"},
-				"west": {"uv": [0, 0, 7, 6], "texture": "#0"},
-				"up": {"uv": [0, 0, 7, 7], "texture": "#0"},
+				"north": {"uv": [0, 0, 7, 6], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 7, 6], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 7, 6], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 7, 6], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [0, 0, 7, 7], "texture": "#0", "tintindex": 0},
 				"down": {"uv": [0, 0, 7, 7], "texture": "#2"}
 			}
 		},

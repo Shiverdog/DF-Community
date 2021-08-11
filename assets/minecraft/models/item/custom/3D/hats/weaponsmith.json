@@ -1,8 +1,8 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "entity/villager/profession/weaponsmith",
-		"particle": "entity/villager/profession/weaponsmith"
+		"0": "item/vanillaReference/weaponsmith",
+		"particle": "item/vanillaReference/weaponsmith"
 	},
 	"elements": [
 		{

@@ -4,9 +4,20 @@
     "layer0": "minecraft:item/leather_horse_armor"
   },
   	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "item/custom/3D/hats/headphone"},
-		{"predicate": {"custom_model_data":101}, "model": "item/custom/3D/hats/book_hat"},
-		{"predicate": {"custom_model_data":102}, "model": "item/leather_horse_armor"}
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/3D/hats/headphone"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/3D/hats/book_hat"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/3D/hats/fez"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/3D/hats/duck_hat"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/3D/hats/fedora"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/3D/hats/demon_horns"},
+		{"predicate": {"custom_model_data":7}, "model": "item/custom/3D/hats/crown"},
+		{"predicate": {"custom_model_data":8}, "model": "item/custom/3D/hats/computer"},
+		{"predicate": {"custom_model_data":9}, "model": "item/custom/3D/hats/armorer_hat"},
+		{"predicate": {"custom_model_data":10}, "model": "item/custom/3D/hats/weaponsmith"},
+		{"predicate": {"custom_model_data":11}, "model": "item/custom/3D/hats/farmer_hat"},
+		{"predicate": {"custom_model_data":12}, "model": "item/custom/3D/hats/propeller_hat"},
+		{"predicate": {"custom_model_data":13}, "model": "item/custom/3D/hats/prop_axe"},
+		{"predicate": {"custom_model_data":14}, "model": "item/leather_horse_armor"}
 	]
 
 }
