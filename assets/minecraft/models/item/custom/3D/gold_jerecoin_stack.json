@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
 		"0": "item/custom/currency/jerecoin/gold_jerecoin",
-		"particle": "item/custom/currency/jerecoin/gold_jerecoint"
+		"particle": "item/custom/currency/jerecoin/gold_jerecoin"
 	},
 	"elements": [
 		{

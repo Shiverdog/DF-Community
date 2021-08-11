@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by shievrdog using Blockbench",
 	"textures": {
 		"0": "item/custom/currency/gold_coin",
-		"particle": "item/custom/currency/gold_coint"
+		"particle": "item/custom/currency/gold_coin"
 	},
 	"elements": [
 		{
