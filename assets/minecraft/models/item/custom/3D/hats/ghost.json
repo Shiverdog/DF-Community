@@ -1,5 +1,5 @@
 {
-	"credit": "Made by shiverdog with Blockbench",
+	"credit": "Made by endersaltz with Blockbench",
 	"textures": {
 		"0": "item/vanillaReference/stripped_spruce_log",
 		"1": "item/vanillaReference/spruce_log",
@@ -28,12 +28,12 @@
 			"to": [12, 15.91552, -7.144],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 16.91552, -9.419]},
 			"faces": {
-				"north": {"uv": [0, 3, 8, 14], "texture": "#3", "tintindex": 0},
-				"east": {"uv": [0, 3, 1.5, 14], "texture": "#3", "tintindex": 0},
-				"south": {"uv": [0, 3, 8, 14], "texture": "#3", "tintindex": 0},
-				"west": {"uv": [0, 3, 1.5, 14], "texture": "#3", "tintindex": 0},
-				"up": {"uv": [0, 3, 8, 4.5], "texture": "#3", "tintindex": 0},
-				"down": {"uv": [0, 3, 8, 4.5], "texture": "#3", "tintindex": 0}
+				"north": {"uv": [0, 3, 8, 14], "texture": "#3"},
+				"east": {"uv": [0, 3, 1.5, 14], "texture": "#3"},
+				"south": {"uv": [0, 3, 8, 14], "texture": "#3"},
+				"west": {"uv": [0, 3, 1.5, 14], "texture": "#3"},
+				"up": {"uv": [0, 3, 8, 4.5], "texture": "#3"},
+				"down": {"uv": [0, 3, 8, 4.5], "texture": "#3"}
 			}
 		},
 		{
@@ -165,9 +165,6 @@
 			"rotation": [0, 120, 0],
 			"translation": [5.25, -3, 0],
 			"scale": [0.6, 0.6, 0.6]
-		},
-		"head": {
-			"translation": [0, 1.75, -6.25]
 		},
 		"fixed": {
 			"translation": [0, -4.25, 10]
