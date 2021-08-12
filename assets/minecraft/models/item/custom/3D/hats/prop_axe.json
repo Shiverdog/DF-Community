@@ -1,9 +1,9 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"1": "item/vanillaReference/axe_outer",
-		"2": "item/vanillaReference/axe_inner",
-		"particle": "item/vanillaReference/axe_outer"
+		"1": "item/vanillareference/axe_outer",
+		"2": "item/vanillareference/axe_inner",
+		"particle": "item/vanillareference/axe_outer"
 	},
 	"elements": [
 		{

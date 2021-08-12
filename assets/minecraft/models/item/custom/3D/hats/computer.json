@@ -2,8 +2,8 @@
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
 		"0": "item/custom/hats/computer",
-		"1": "item/vanillaReference/white_wool",
-		"3": "item/custom/hats/computerOuter",
+		"1": "item/vanillareference/white_wool",
+		"3": "item/custom/hats/computer_outer",
 		"particle": "item/custom/hats/computer"
 	},
 	"elements": [

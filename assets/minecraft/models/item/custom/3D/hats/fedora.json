@@ -1,9 +1,9 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "item/vanillaReference/white_wool",
-		"1": "item/vanillaReference/black_wool",
-		"particle": "item/vanillaReference/white_wool"
+		"0": "item/vanillareference/white_wool",
+		"1": "item/vanillareference/black_wool",
+		"particle": "item/vanillareference/white_wool"
 	},
 	"elements": [
 		{

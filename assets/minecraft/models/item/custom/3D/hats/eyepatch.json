@@ -1,9 +1,9 @@
 {
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
-		"0": "item/vanillaReference/eyepatch_white",
-		"1": "item/vanillaReference/eyepatch",
-		"particle": "item/vanillaReference/eyepatch"
+		"0": "item/vanillareference/eyepatch_white",
+		"1": "item/vanillareference/eyepatch",
+		"particle": "item/vanillareference/eyepatch"
 	},
 	"elements": [
 		{

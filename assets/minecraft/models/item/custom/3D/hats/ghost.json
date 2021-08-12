@@ -1,12 +1,12 @@
 {
 	"credit": "Made by endersaltz with Blockbench",
 	"textures": {
-		"0": "item/vanillaReference/stripped_spruce_log",
-		"1": "item/vanillaReference/spruce_log",
-		"2": "item/vanillaReference/white_concrete_powder",
-		"3": "item/vanillaReference/white_shulker_box",
-		"4": "item/vanillaReference/coal_block",
-		"particle": "item/vanillaReference/stripped_spruce_log"
+		"0": "item/vanillareference/stripped_spruce_log",
+		"1": "item/vanillareference/spruce_log",
+		"2": "item/vanillareference/white_concrete_powder",
+		"3": "item/vanillareference/white_shulker_box",
+		"4": "item/vanillareference/coal_block",
+		"particle": "item/vanillareference/stripped_spruce_log"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
 	"credit": "Made by endersaltz with Blockbench",
 	"textures": {
-		"0": "item/vanillaReference/white_wool",
-		"1": "item/vanillaReference/coal_block",
-		"2": "item/vanillaReference/orange_wool",
-		"3": "item/vanillaReference/barrel_bottom",
-		"particle": "item/vanillaReference/white_wool"
+		"0": "item/vanillareference/white_wool",
+		"1": "item/vanillareference/coal_block",
+		"2": "item/vanillareference/orange_wool",
+		"3": "item/vanillareference/barrel_bottom",
+		"particle": "item/vanillareference/white_wool"
 	},
 	"elements": [
 		{
