@@ -1,0 +1,31 @@
+{
+	"credit": "Made by shiverdog with Blockbench",
+	"parent": "builtin/entity",
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"color": 7,
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#missing"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#missing"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#missing"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#missing"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 0, -10],
+			"translation": [-6.93, -3.308, 5.19],
+			"scale": [2.01, 2.01, 2.01]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 15.999, 3.75],
+			"scale": [3.99, 3.99, 1.00023]
+		}
+	}
+}

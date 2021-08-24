@@ -7,6 +7,10 @@
   	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/dyed/dyed_coin"},
 		{"predicate": {"custom_model_data":2}, "model": "item/custom/dyed/dyed_jerecoin"},
-		{"predicate": {"custom_model_data":3}, "model": "item/firework_star"}
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/dyed/white_orb"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/dyed/white_orb_2"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/dyed/white_orb_3"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/dyed/white_scroll"},
+		{"predicate": {"custom_model_data":7}, "model": "item/firework_star"}
 	]
 }

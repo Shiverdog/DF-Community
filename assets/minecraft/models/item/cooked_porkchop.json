@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/cooked_porkchop"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/golden_steak"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/food/golden_steak"},
 		{"predicate": {"custom_model_data":2}, "model" : "item/cooked_porkchop"}
 	]
 }
