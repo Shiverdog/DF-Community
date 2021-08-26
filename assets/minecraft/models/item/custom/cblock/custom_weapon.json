@@ -1,0 +1,47 @@
+{
+	"credit": "Made by shiverdog with Blockbench",
+	"parent": "builtin/entity",
+	"textures": {
+		"particle": "block/soul_sand"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, -180, 90],
+			"translation": [0, 3.75, 0],
+			"scale": [0.77, 0.001, 0.77]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, -180, -90],
+			"translation": [0, 3.75, 0],
+			"scale": [0.77, 0.001, 0.77]
+		},
+		"firstperson_righthand": {
+			"rotation": [45, -180, 90],
+			"translation": [0, 4.25, 0],
+			"scale": [1, 0.001, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, -180, -90],
+			"translation": [0, 4.25, 0],
+			"scale": [1, 0.001, 1]
+		},
+		"ground": {
+			"rotation": [45, -180, 90],
+			"translation": [0, 6, 0],
+			"scale": [2, 0.001, 2]
+		},
+		"gui": {
+			"rotation": [90, -180, 0],
+			"scale": [-2, 0.001, 2]
+		},
+		"head": {
+			"rotation": [45, -180, 90],
+			"translation": [0, 13.25, -1],
+			"scale": [1.5, 0.001, 1.5]
+		},
+		"fixed": {
+			"rotation": [90, -180, 0],
+			"scale": [2, 0.001, 2]
+		}
+	}
+}

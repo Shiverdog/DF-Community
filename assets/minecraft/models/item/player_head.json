@@ -2,6 +2,8 @@
     "parent": "item/template_skull",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/custom/cblock/head_items" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/custom/cblock/head_blocks" }
+		{ "predicate": { "custom_model_data": 2}, "model": "item/custom/cblock/head_blocks" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/custom/cblock/custom_weapon" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/player_head" }
 	]
 }

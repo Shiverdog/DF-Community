@@ -2,7 +2,7 @@
 	"credit": "Made by shiverdog with Blockbench",
 	"textures": {
 		"0": "entity/villager/profession/armorer",
-		"1": "item/dyed/purewhite",
+		"1": "item/custom/dyed/purewhite",
 		"particle": "entity/villager/profession/armorer"
 	},
 	"elements": [

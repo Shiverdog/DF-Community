@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/dyed/white_orb_2",
-		"layer1": "item/dyed/white_orb_2"
+        "layer0": "item/custom/dyed/white_orb_2",
+		"layer1": "item/custom/dyed/white_orb_2"
     }
 }

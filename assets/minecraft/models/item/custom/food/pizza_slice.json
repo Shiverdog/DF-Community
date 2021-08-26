@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/custom/pizza_slice"
+    "layer0": "minecraft:item/custom/food/pizza_slice"
   }
 }
