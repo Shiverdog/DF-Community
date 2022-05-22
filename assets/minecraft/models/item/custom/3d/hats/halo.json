@@ -1,0 +1,136 @@
+{
+	"credit": "Made by shiverdog with Blockbench",
+	"textures": {
+		"0": "item/vanillareference/white_wool",
+		"1": "item/vanillareference/dead_brain_coral_block",
+		"particle": "item/vanillareference/white_wool"
+	},
+	"elements": [
+		{
+			"from": [4.08, 7.02, 3.52],
+			"to": [12.48, 8.14, 4.08],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.52, 8]},
+			"faces": {
+				"north": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [11, 7, 12, 8], "rotation": 90, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [3.52, 7.02, 3.52],
+			"to": [4.08, 8.14, 11.92],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.52, 8]},
+			"faces": {
+				"north": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [11, 7, 12, 8], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [11, 8, 12, 9], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [3.52, 7.02, 11.92],
+			"to": [11.92, 8.14, 12.48],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.52, 8]},
+			"faces": {
+				"north": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [11, 7, 12, 8], "rotation": 270, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [11, 8, 12, 9], "rotation": 90, "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [11.92, 7.02, 4.08],
+			"to": [12.48, 8.14, 12.48],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.52, 8]},
+			"faces": {
+				"east": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [11, 7, 12, 9], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [11, 7, 12, 8], "rotation": 180, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [11, 8, 12, 9], "rotation": 180, "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [7.95, 0, 11.75],
+			"to": [8.7, 0.25, 12.5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8.2, 0, 12],
+			"to": [8.45, 7, 12.25],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [134.25, 45, -180],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [134.25, 45, -180],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 45, -180],
+			"translation": [0, 2.5, 0.25],
+			"scale": [0.48, 0.48, 0.48]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 45, -180],
+			"translation": [0, 2.5, 0.25],
+			"scale": [0.48, 0.48, 0.48]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.61, 0.61, 0.61]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [1.04, 1.04, 1.04]
+		},
+		"head": {
+			"translation": [0, 12.5, 0],
+			"scale": [1.19, 1.19, 1.19]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [1.76, 1.76, 1.76]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 1,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "stem",
+			"origin": [8, 8, 8],
+			"color": 5,
+			"children": [4, 5]
+		}
+	]
+}

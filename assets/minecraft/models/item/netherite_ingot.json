@@ -6,6 +6,6 @@
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/custom/currency/counterfeit_coin"},
 		{"predicate": {"custom_model_data":2}, "model": "item/custom/currency/jerecoin/counterfeit_silver"},
-		{"predicate": {"custom_model_data":3}, "model" : "item/netherite_ingot"}
+		{"predicate": {"custom_model_data":3}, "model": "item/netherite_ingot"}
 	]
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/command_block",
+  "overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/custom/misc/pink_slip"},
+	{"predicate": {"custom_model_data":2}, "model": "item/command_block"}
+  ]
+}

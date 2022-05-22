@@ -21,7 +21,14 @@
 		{"predicate": {"custom_model_data":15}, "model": "item/custom/3d/hats/drinkcap"},
 		{"predicate": {"custom_model_data":16}, "model": "item/custom/3d/hats/ghost"},
 		{"predicate": {"custom_model_data":17}, "model": "item/custom/3d/hats/tophat"},
-		{"predicate": {"custom_model_data":17}, "model": "item/leather_horse_armor"}
+		{"predicate": {"custom_model_data":18}, "model": "item/custom/3d/hats/headband"},
+		{"predicate": {"custom_model_data":19}, "model": "item/custom/3d/hats/halo"},
+		{"predicate": {"custom_model_data":20}, "model": "item/custom/3d/hats/jester_hat"},
+		{"predicate": {"custom_model_data":21}, "model": "item/custom/3d/hats/beehat_0"},
+		{"predicate": {"custom_model_data":22}, "model": "item/custom/3d/hats/beehat_1"},
+		{"predicate": {"custom_model_data":23}, "model": "item/custom/3d/hats/beehat_2"},
+		{"predicate": {"custom_model_data":24}, "model": "item/custom/3d/hats/chickenhat"},
+		{"predicate": {"custom_model_data":25}, "model": "item/leather_horse_armor"}
 	]
 
 }

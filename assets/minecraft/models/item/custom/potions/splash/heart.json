@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/custom/potion/overlays/heart_overlay",
+        "layer1": "item/custom/potion/splash/heart_bottle"
+    }
+}

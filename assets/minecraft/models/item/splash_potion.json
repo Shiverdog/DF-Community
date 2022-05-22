@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/splash_potion"
+    },
+  	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/potions/splash/beaker"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/potions/splash/down"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/potions/splash/gold"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/potions/splash/heart"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/potions/splash/hourglass"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/potions/splash/rectangle"},
+		{"predicate": {"custom_model_data":7}, "model": "item/custom/potions/splash/skinny"},
+		{"predicate": {"custom_model_data":8}, "model": "item/custom/potions/splash/sword"},
+		{"predicate": {"custom_model_data":9}, "model": "item/custom/potions/splash/tear"},
+		{"predicate": {"custom_model_data":10}, "model": "item/custom/potions/splash/wide"},
+		{"predicate": {"custom_model_data":11}, "model": "item/splash_potion"}
+	]
+}
