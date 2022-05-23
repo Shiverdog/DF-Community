@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/flint_and_steel"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/tools/flint_and_steel/acacia"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/tools/flint_and_steel/birch"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/tools/flint_and_steel/crimson"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/tools/flint_and_steel/dark_oak"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/tools/flint_and_steel/jungle"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custom/tools/flint_and_steel/oak"},
+		{"predicate": {"custom_model_data":7}, "model": "item/custom/tools/flint_and_steel/spruce"},
+		{"predicate": {"custom_model_data":8}, "model": "item/custom/tools/flint_and_steel/warped"},
+		{"predicate": {"custom_model_data":9}, "model" : "item/flint_and_steel"}
+	]
+}
