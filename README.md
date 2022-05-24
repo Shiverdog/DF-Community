@@ -11,7 +11,7 @@ This means even if two resource packs normally had no compatibility problems (us
 Contributers are encouraged to update their own contributions if a newer version breaks theirs.
 
 ### Version
-DF-Community is currently in Minecraft version 1.17, as that is the version of the DiamondFire's node beta. If you are using 1.16, the resource pack should work fine.
-DF-Community's update version is 8.23.21 (MM/DD/YY)
+DF-Community currently supports Minecraft version 1.18 to 1.18.2
+DF-Community's update version can be found in the pack.mcmeta in the format YYYY-MM-DD
 ### Wiki
 It is recommended to include how to use your contributions in the respository's Wiki page [here](https://github.com/Shiverdog/DF-Community/wiki/).
