@@ -4,8 +4,8 @@
     "all": "minecraft:block/gold_block"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/custom/3d/gold_coin_stack"},
-    {"predicate": {"custom_model_data":2}, "model": "item/custom/3d/gold_jerecoin_stack"},
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/threed/gold_coin_stack"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom/threed/gold_jerecoin_stack"},
 		{"predicate": {"custom_model_data":3}, "model" : "item/gold_block"}
 	]
 }
